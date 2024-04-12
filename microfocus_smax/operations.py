@@ -182,8 +182,8 @@ def create_incident(config, params):
         "ImpactScope": IMPACT_SCOP.get(params.get("impact_scope")),
         "ServiceDeskGroup": params.get("service_desk_group_id")
     }
-    if params.get("other_properities"):
-        incident_properties.update(params.get("other_properities"))
+    if params.get("other_properties"):
+        incident_properties.update(params.get("other_properties"))
     params.update({"entities": [{"entity_type":"Incident", "properties": incident_properties}]})
     return bulk_operations_entities(config, params, "CREATE")
 
