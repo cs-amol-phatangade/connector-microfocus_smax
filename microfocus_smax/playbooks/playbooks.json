@@ -17,7 +17,7 @@
           "uuid": "ea4f3970-e0e8-4e0c-9d03-fb33aa372bcc",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Create entities",
+          "description": "Generate a new entities with provided details.",
           "name": "Create Entities",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
@@ -96,7 +96,7 @@
           "uuid": "9b91dace-48ac-44ca-b0f0-568746373d9e",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Retrieves all details of entity",
+          "description": "Retrieves complete information about the entity.",
           "name": "Get Entity Details",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
@@ -179,7 +179,7 @@
           "uuid": "c87219cd-2a00-4f0a-a5ac-fd93abe2fcc3",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Retrieves list of entity",
+          "description": "Retrieve a list of entities by applying a filter.",
           "name": "Query Entities",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
@@ -265,7 +265,7 @@
           "uuid": "140e2f96-5c3a-4b8d-8d27-7623c3a1b565",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Update entities",
+          "description": "Update the entities with provided details.",
           "name": "Update Entities",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
@@ -344,7 +344,7 @@
           "uuid": "116cd2c9-596b-4214-a69f-5c2eab8c5756",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Create incident",
+          "description": "Generate a new incident with provided details",
           "name": "Create Incident",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
@@ -428,7 +428,7 @@
           "uuid": "4f935629-6ad5-4080-86a9-a9b154c0c894",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Update incident",
+          "description": "Update the incident with provided details",
           "name": "Update Incident",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
@@ -512,7 +512,7 @@
           "uuid": "3544db8b-ce62-40fe-9a72-b942628c5e3f",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Create new request",
+          "description": "Generate a new request with provided details.",
           "name": "Create Request",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
@@ -596,7 +596,7 @@
           "uuid": "be7f72e1-fbb0-4c33-a09f-649ac5d0b7b7",
           "collection": "/api/3/workflow_collections/c4a7a8d7-a4ad-4b9f-9186-d6bcb56d7fde",
           "triggerLimit": null,
-          "description": "Update request",
+          "description": "Update the request with provided details",
           "name": "Update Request",
           "tag": "#Micro Focus SMAX",
           "recordTags": [
